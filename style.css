@@ -1,0 +1,27 @@
+
+.mainDiv {
+  display: inline-block;
+  width: 360px;
+  height: 360px;
+  background-color: aqua;
+  margin: 30px 35%;
+}
+.cell {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: dodgerblue;
+  float: left;
+  margin: 10px;
+  text-align: center;
+  font-size: 65px;
+  color: white;
+}
+button{
+    display: flex;
+    margin: 0px 45% !important;
+}
+
+alert{
+    
+}
